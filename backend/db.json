@@ -1,0 +1,20 @@
+{
+  "Urww2l": {
+    "url": "https://example.com",
+    "createdAt": "2025-07-14T06:03:51.176Z",
+    "expiry": "2025-07-14T06:08:51.176Z",
+    "clicks": [
+      {
+        "timestamp": "2025-07-14T06:05:46.664Z",
+        "referrer": null,
+        "ip": "::1"
+      }
+    ]
+  },
+  "nKpUta": {
+    "url": "https://examplenvvn.com",
+    "createdAt": "2025-07-14T06:14:37.970Z",
+    "expiry": "2025-07-14T06:19:37.970Z",
+    "clicks": []
+  }
+}
